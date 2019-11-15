@@ -1,0 +1,25 @@
+
+#posts {
+    list-style: none;
+}
+
+.title {
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+.id {
+    font-size: x-small;
+}
+
+.content {
+    font-size: large;
+}
+
+.author .date {
+    font-size: small;
+}
+
+form > div {
+    margin:5px;
+}
