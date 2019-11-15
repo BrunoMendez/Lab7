@@ -11,23 +11,23 @@ app.use(morgan("dev"));
 
 let posts = [{
 	id: uuid(),
-	title: "Post 1",
-	content: "This is the first post of the day!",
-	author: "George",
+	title: "Hello",
+	content: "World!",
+	author: "Bruno",
 	publishDate: "1/10/2019"
 },
 {
 	id: uuid(),
-	title: "Post 2",
-	content: "This is the second post of the day!",
-	author: "Stevie",
+	title: "Goodbye",
+	content: "World!",
+	author: "Esteban",
 	publishDate: "10/10/2019"
 },
 {
 	id: uuid(),
-	title: "Post 3",
-	content: "This is the third and final post of the day!",
-	author: "Jay-Z",
+	title: "Hello World!",
+	content: "Final post",
+	author: "Bruno Mendez",
 	publishDate: "20/10/2019"
 }
 ];
